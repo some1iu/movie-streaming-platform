@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environment variables
+.env
+
+# Generated project files
+Bill.txt
+Stream.png
+
+# VS Code
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
